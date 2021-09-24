@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GitHub Explorer" title="#gatry" src="src/assets/banner.gif" />
+  <img alt="GitHub Explorer" title="#GitHubExplorer" src="src/assets/banner.gif" />
 </h1>
 
 <h3 align="center"> 
