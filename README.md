@@ -90,7 +90,7 @@ $ npm run start
 
 
 ## 📝 Licença
-![GitHub](https://img.shields.io/github/license/MoreiraRamires/Git-Explorer-Go-Stack-11)
+![GitHub](https://img.shields.io/github/license/moreiraramires/Git-Explorer-Go-Stack-11)
 
 Feito com ❤️ por Rafael Ramires 👋🏽 [Entre em contato!](https://www.linkedin.com/in/rafael-ramires-791aa378/)
 
