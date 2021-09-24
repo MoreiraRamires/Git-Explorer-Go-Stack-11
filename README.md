@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/MoreiraRamires/Git-Explorer-Go-Stack-11)
 <h1 align="center">
-    <img alt="GitHub Explorer" title="#githubexplorer" src="src/assets/banner.png" />
+    ![#githubexplorer](https://camo.githubusercontent.com/a16397db9e3e398420ed762138358f9c068c4b4c6cad8a46eb9fe4bc5c180186/68747470733a2f2f692e6779617a6f2e636f6d2f36663637373164663331356562393630643661366435366362373463313831362e676966 "#githubexplorer")
 </h1>
 
 <h3 align="center"> 
