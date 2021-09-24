@@ -1,6 +1,3 @@
-
-
-![GitHub](https://img.shields.io/github/license/MoreiraRamires/Git-Explorer-Go-Stack-11)
 <h1 align="center">
   <img alt="GitHub Explorer" title="#gatry" src="src/assets/banner.gif" />
 </h1>
@@ -93,7 +90,6 @@ $ npm run start
 
 
 ## 📝 Licença
-
 ![GitHub](https://img.shields.io/github/license/MoreiraRamires/Git-Explorer-Go-Stack-11)
 
 Feito com ❤️ por Rafael Ramires 👋🏽 [Entre em contato!](https://www.linkedin.com/in/rafael-ramires-791aa378/)
